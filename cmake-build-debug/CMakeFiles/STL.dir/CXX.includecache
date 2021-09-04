@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Khang/Desktop/C++/STL/stl_deque_challenge.cpp
+iostream
+-
+string
+-
+algorithm
+-
+deque
+-
+cctype
+-
+vector
+-
+iomanip
+-
+
+C:/Users/Khang/Desktop/C++/STL/stl_stack_queue_challenge4.cpp
+
